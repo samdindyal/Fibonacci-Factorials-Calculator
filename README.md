@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td>![fibonacci](img/fibonacci.png)</td>
-    <td>![factorielles](img/factorielles.png)</td>
+    <td><img alt="fibonacci" src="img/fibonacci.png"</td>
+    <td><img alt="factorielles" src="img/factorielles.png"</td>
   </tr>
 </table>
 
